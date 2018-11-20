@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "description": "a blog",
+  "main": "",
+  "authors": [
+    "jason"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "blog"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.5"
+  }
+}
